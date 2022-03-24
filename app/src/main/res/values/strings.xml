@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Primera Aplicacion</string>
+    <string name="textViewNombre">Escribe tu nombre</string>
+    <string name="TextView2">Hola Mundo</string>
+    <string name="Button9Text">9</string>
+    <string name="Button8Text">8</string>
+    <string name="Button7Text">7</string>
+    <string name="Button6Text">6</string>
+    <string name="Button5Text">5</string>
+    <string name="Button4Text">4</string>
+    <string name="Button3Text">3</string>
+    <string name="Button2Text">2</string>
+    <string name="Button1Text">1</string>
+    <string name="Button0Text">0</string>
+    <string name="ButtonBorrar">Borrar</string>
+    <string name="ButtonSendText">Revisar</string>
+    <string name="RightAnswersCount">Aciertos: 0</string>
+    <string name="WrongAnswersCount">Fallos: 0</string>
+    <string name="TotalPercentage">Nota: 0</string>
+    <string name="BestScore">Record: 0</string>
+    <string name="TitleText">Que tan lejos puedes llegar?</string>
+</resources>
